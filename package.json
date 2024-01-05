@@ -2,6 +2,9 @@
   "name": "get-grocery-items",
   "version": "1.0.0",
   "description": "",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
   "scripts": {
     "start": "func start",
     "test": "echo \"No tests yet...\""
