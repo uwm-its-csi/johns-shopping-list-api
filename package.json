@@ -10,7 +10,7 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
-    "@azure/functions": "^4.0.0",
+    "@azure/functions": "^4.1.0",
     "mongodb": "^6.3.0"
   },
   "main": "src/functions/*.js"
