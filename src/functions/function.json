@@ -8,7 +8,7 @@
       "methods": ["get"]
     },
     {
-      "type": "http",
+      "type": "https",
       "direction": "out",
       "name": "$return"
     }
